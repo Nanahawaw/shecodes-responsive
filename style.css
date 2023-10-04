@@ -100,7 +100,7 @@ p {
 .email-link:hover {
   text-decoration: underline;
 }
-@media (max-width: 600px) {
+@media (max-width: 575px) {
   .primary-link {
     display: block;
     text-align: center;
@@ -118,7 +118,5 @@ p {
   }
   .email-link {
     font-size: 20px;
-  }
-  h2 {
   }
 }
